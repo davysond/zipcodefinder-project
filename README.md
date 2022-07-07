@@ -1,2 +1,1 @@
-# zipcodefinder-project
- Um simples buscador de CEP utilizando ReactJS.
+Um simples buscador de CEP utilizando ReactJS.
